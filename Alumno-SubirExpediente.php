@@ -15,6 +15,7 @@ while ($row = $sel->fetch_assoc()) {
 <br>                      
 <div class="container">
     <h2>Entregables</h2>
+    <h5 style="color: red;">Descargar los documentos disponibles que se muestran abajo para subirlos en la tabla</h5>
   <!--  <a href="http://localhost/Sistema-Tutorias/act/Diasgnostico%20inicial.pdf">Diasgnostico Inicial</a><br>-->
     <a href="http://localhost/Sistema-Tutorias/act/ficha%20de%20identificacion.pdf">Ficha</a><br>
     <a href="http://localhost/Sistema-Tutorias/act/entrevista.pdf">Encuesta</a><br>
@@ -23,7 +24,7 @@ while ($row = $sel->fetch_assoc()) {
 <div class="container">
     <div class="row align-items-start ">   
         <div class="col">
-            <h4 style="text-align: right;">Subir Archivos</h4>   
+            <h4 style="text-align: right;">Subir Archivos (solamente en PDF)</h4>   
         </div>
         <div class="col">
             <button  type="submit" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">

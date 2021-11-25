@@ -1,0 +1,19 @@
+Yo estaban pensando en una cámara a control remoto, le podríamos agregar detector de movimiento, alarma y k te manda mensaje si detecta algo
+
+[0:30, 14/9/2021] Luis Saucedo: Sería,
+1.-Detector de movimiento
+2.-Alarma 
+3.-
+[0:30, 14/9/2021] Luis Saucedo: 3.-mensaje
+[0:30, 14/9/2021] Luis Saucedo: 4.-microfono
+[0:31, 14/9/2021] Luis Saucedo: 5.-bocina
+[0:31, 14/9/2021] Luis Saucedo: falta algo o hay de más?
+
+1 detector de moviento
+2 alarma
+3 mensaje 
+4 micrófono
+5 bocina
+6 control bocina 
+7 captura de imagen
+8
